@@ -1,0 +1,1 @@
+This is the privacy policy for the 'PhotoExtractor' application. The 'PhotoExtractor' app allows you to access your photos, which may contain personal information. Some anonymous crash and usage statistics are collected using the standard analytics reporting provided by Microsoft. No other information is transmitted anywhere.
